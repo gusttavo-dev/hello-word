@@ -1,2 +1,2 @@
-console.log("teste");
-console.log("teste 2")
+console.log("Hello world!");
+console.log("O word no título é proposital.")
